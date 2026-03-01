@@ -82,10 +82,10 @@ Initiate direct peer-to-peer contact via email, monitor professional telemetry v
 <a href="mailto:jayofficial158@gmail.com">
 <img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="Email" />
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/jay-dosi-01b6ab321">
+<a href="https://linkedin.com/in/jay-dosi-01b6ab321">
 <img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="LinkedIn" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/Jay-Dosi">
+<a href="https://github.com/Jay-Dosi">
 <img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="GitHub" />
 </a>
 </p>
