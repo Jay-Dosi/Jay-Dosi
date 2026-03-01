@@ -55,7 +55,7 @@ System proficiencies encompass Programming Languages, Frameworks & Libraries, AI
 ### `[TELEMETRY_AND_STATS_NODE]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Dosi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -80,13 +80,13 @@ Initiate direct peer-to-peer contact via email, monitor professional telemetry v
 
 <p align="center">
 <a href="mailto:jayofficial158@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-141414%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="Email" />
+<img src="https://img.shields.io/badge/Email-141414?style=for-the-badge&logo=gmail&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="Email" />
 </a>
 <a href="https://www.google.com/search?q=https://linkedin.com/in/jay-dosi-01b6ab321">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-141414%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="LinkedIn" />
 </a>
 <a href="https://www.google.com/search?q=https://github.com/Jay-Dosi">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-141414%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="GitHub" />
 </a>
 </p>
 
