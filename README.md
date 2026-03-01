@@ -1,4 +1,4 @@
-
+```markdown
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -8,15 +8,15 @@
 <br><br>
 
 ### `[SYS_PROFILE_LOG]`
-[cite_start]Accessing primary data node for Jay Dosi[cite: 1]. [cite_start]Currently executing operations as a software engineer and backend architect, holding a base framework in Communication and Computer Engineering.[cite: 5, 6]. 
+Accessing primary data node for Jay Dosi. Currently executing operations as a software engineer and backend architect, holding a base framework in Communication and Computer Engineering. 
 
-[cite_start]Core execution cycles are dedicated to engineering scalable backend systems, advancing Artificial Intelligence and Machine Learning models, and fortifying Cybersecurity infrastructures[cite: 8, 9, 10]. [cite_start]Primary operational fields include developing retrieval-augmented generation (RAG) pipelines, implementing natural language processing (NLP) solutions, and deploying predictive time-series forecasting models[cite: 10]. Additional processing bandwidth is heavily allocated toward Open-Source Development and designing high-performance, data-driven algorithms suited for Quantitative Trading environments. [cite_start]Continuously optimizing logic to bridge complex theoretical frameworks with robust, real-world system deployments[cite: 8, 9, 10, 11].
+Core execution cycles are dedicated to engineering scalable backend systems, advancing Artificial Intelligence and Machine Learning models, and fortifying Cybersecurity infrastructures. Primary operational fields include developing retrieval-augmented generation (RAG) pipelines, implementing natural language processing (NLP) solutions, and deploying predictive time-series forecasting models. Additional processing bandwidth is heavily allocated toward Open-Source Development and designing high-performance, data-driven algorithms suited for Quantitative Trading environments. Continuously optimizing logic to bridge complex theoretical frameworks with robust, real-world system deployments.
 
 ---
 
 ### `[TECH_STACK_MATRIX]`
 
-[cite_start]System proficiencies encompass Programming Languages, Frameworks & Libraries, AI/ML, and Databases & DevOps[cite: 7, 8, 9, 10, 11].
+System proficiencies encompass Programming Languages, Frameworks & Libraries, AI/ML, and Databases & DevOps.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-141414?style=for-the-badge&logo=python&logoColor=00FF99&color=black&labelColor=1A1A1A" alt="Python" />
@@ -55,14 +55,12 @@
 ### `[TELEMETRY_AND_STATS_NODE]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Dosi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=C9D1D9" alt="WakaTime Stats" width="97%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Jay-Dosi/Jay-Dosi/main/github-metrics.svg" alt="GitHub Metrics" width="97%">
 </p>
 
 ---
@@ -97,3 +95,7 @@ Initiate direct peer-to-peer contact via email, monitor professional telemetry v
 </div>
 
 </div>
+
+```
+
+```
