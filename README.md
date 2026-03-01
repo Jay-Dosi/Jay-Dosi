@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -97,7 +97,3 @@ Initiate direct peer-to-peer contact via email, monitor professional telemetry v
 </div>
 
 </div>
-
-```
-
-```
