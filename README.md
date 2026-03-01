@@ -8,7 +8,7 @@
 <br><br>
 
 ### `[SYS_PROFILE_LOG]`
-[cite_start]Accessing primary data node for Jay Dosi[cite: 1]. [cite_start]Currently executing operations as a software engineer and backend architect, holding a base framework in Communication and Computer Engineering from The LNM Institute of Information and Technology, Jaipur, Rajasthan, India[cite: 5, 6]. 
+[cite_start]Accessing primary data node for Jay Dosi[cite: 1]. [cite_start]Currently executing operations as a software engineer and backend architect, holding a base framework in Communication and Computer Engineering.[cite: 5, 6]. 
 
 [cite_start]Core execution cycles are dedicated to engineering scalable backend systems, advancing Artificial Intelligence and Machine Learning models, and fortifying Cybersecurity infrastructures[cite: 8, 9, 10]. [cite_start]Primary operational fields include developing retrieval-augmented generation (RAG) pipelines, implementing natural language processing (NLP) solutions, and deploying predictive time-series forecasting models[cite: 10]. Additional processing bandwidth is heavily allocated toward Open-Source Development and designing high-performance, data-driven algorithms suited for Quantitative Trading environments. [cite_start]Continuously optimizing logic to bridge complex theoretical frameworks with robust, real-world system deployments[cite: 8, 9, 10, 11].
 
@@ -84,10 +84,10 @@ Initiate direct peer-to-peer contact via email, monitor professional telemetry v
 <a href="mailto:jayofficial158@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-141414%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="Email" />
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/jay-dosi-01b6ab321">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-141414%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="LinkedIn" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://www.google.com/search?q=https://github.com/Jay-Dosi">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-141414%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D00FF99%26color%3Dblack%26labelColor%3D1A1A1A" alt="GitHub" />
 </a>
 </p>
