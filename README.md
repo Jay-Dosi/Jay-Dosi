@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=INITIATING+BOOT+SEQUENCE...;USER_IDENTITY:+JAY+DOSI;CORE_DIRECTIVES:+AI+/+ML+/+CYBERSECURITY+/+CLOUD COMPUTING;STATUS:+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=INITIATING+BOOT+SEQUENCE...;USER_IDENTITY:+JAY+DOSI;CORE_DIRECTIVES:+AI+/+ML+/+CYBERSECURITY;STATUS:+ONLINE" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -55,7 +55,7 @@ System proficiencies encompass Programming Languages, Frameworks & Libraries, AI
 ### `[TELEMETRY_AND_STATS_NODE]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Dosi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 
