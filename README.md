@@ -55,7 +55,7 @@ System proficiencies encompass Programming Languages, Frameworks & Libraries, AI
 ### `[TELEMETRY_AND_STATS_NODE]`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Dosi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Dosi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
 </p>
 
