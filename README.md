@@ -8,9 +8,12 @@
 <br><br>
 
 ### `[SYS_PROFILE_LOG]`
-Accessing primary data node for Jay Dosi. Currently executing operations as a software engineer and backend architect, holding a base framework in Communication and Computer Engineering. 
+I’m a Software Engineer and Backend Architect with a background in Communication and Computer Engineering. I enjoy building scalable backend systems that are clean, efficient, and reliable.
 
-Core execution cycles are dedicated to engineering scalable backend systems, advancing Artificial Intelligence and Machine Learning models, and fortifying Cybersecurity infrastructures. Primary operational fields include developing retrieval-augmented generation (RAG) pipelines, implementing natural language processing (NLP) solutions, and deploying predictive time-series forecasting models. Additional processing bandwidth is heavily allocated toward Open-Source Development and designing high-performance, data-driven algorithms suited for Quantitative Trading environments. Continuously optimizing logic to bridge complex theoretical frameworks with robust, real-world system deployments.
+My work mainly focuses on AI, Machine Learning, and Cybersecurity. I build RAG pipelines, develop NLP systems, and create predictive time-series models for real-world, performance-critical applications.
+
+I am also active in open source and spend a lot of time designing high-performance, data-driven algorithms for quantitative trading. I like taking complex ideas and turning them into practical systems that run smoothly in production.
+
 
 ---
 
